@@ -22,12 +22,12 @@ export default function Home() {
       </Head>
       <div className="container">
         <header>
-          <img src="https://nyimpen.vercel.app/component/logoku.png" alt="Profile Picture" className="profile-pic" />
-          <h1 className="nama">balxzzy</h1>
+          <img src="https://pomf2.lain.la/f/910ut1o2.jpg" alt="Profile Picture" className="profile-pic" />
+          <h1 className="nama">Neyoo</h1>
           <p className="lokasi">
-            <i className="fas fa-globe-asia"></i> Kalimantan Timur, Samarinda
+            <i className="fas fa-globe-asia"></i> Jawa Barat, Karawang
           </p>
-          <p className="bio">”destroyer.”</p>
+          <p className="bio">”Self.”</p>
         </header>
 
         <section className="spotify-section">
