@@ -52,16 +52,7 @@ export default function Home() {
           <a href="https://github.com/balxz" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-github"></i>
           </a>
-          <a href="https://wa.me/6281276400345?text=hi+balxzzy" target="_blank" className="social-link" rel="noopener noreferrer">
-            <i className="fab fa-whatsapp"></i>
-          </a>
-          <a href="https://instagram.com/iqstore78" target="_blank" className="social-link" rel="noopener noreferrer">
-            <i className="fab fa-instagram"></i>
-          </a>
-          <a href="https://api.balxzzy.xyz" target="_blank" className="social-link" rel="noopener noreferrer">
-            <i className="fas fa-arrow-up-right-from-square"></i>
-          </a>
-        </div>
+                  </div>
       </div>
     </>
   )
