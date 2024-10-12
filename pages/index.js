@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>balxzzy | Spotify Music</title>
+        <title>meyoo | Spotify Music</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
         <link rel="stylesheet" href="https://nyimpen.vercel.app/component/spotfy.css" />
@@ -31,7 +31,7 @@ export default function Home() {
         </header>
 
         <section className="spotify-section">
-          <h2>The Playlist I Listen To</h2>
+          <h2>My go-to playlist is always there for me</h2>
           <div className="iframe-container">
             {loading && (
               <div className="loading">
@@ -39,7 +39,7 @@ export default function Home() {
               </div>
             )}
             <iframe
-              src="https://open.spotify.com/embed/playlist/6e5psrTK5oyi4xFRCk4MRx"
+              src="https://open.spotify.com/embed/playlist/0C3w3C4C9JMVpjJdeDN09m"
               frameBorder="0"
               allowTransparency="true"
               allow="encrypted-media"
