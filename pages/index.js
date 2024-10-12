@@ -49,7 +49,7 @@ export default function Home() {
         </section>
 
         <div className="social-icons">
-          <a href="https://github.com/balxz" target="_blank" className="social-link" rel="noopener noreferrer">
+          <a href="https://github.com/nexxid" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-github"></i>
           </a>
                   </div>
